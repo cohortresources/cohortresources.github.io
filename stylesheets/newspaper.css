@@ -242,12 +242,12 @@ p{
     mix-blend-mode: multiply;
     width: 100%;
 }
-header{
+footer{
     font-family: 'Playfair Display', serif;
-    font-weight: 200;
-    font-size: 48px;
-    display: inline-block;
+    font-weight: 50;
+    font-size: 20px;
     line-height: 72px;
+    text-align: center;
     margin-bottom: 20px;
 
 }
